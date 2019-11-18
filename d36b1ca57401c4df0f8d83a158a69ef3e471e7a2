@@ -1,0 +1,1 @@
+{"jobID":"c07445ee-9cdd-3d27-9810-f5b74bb4e9d9","spec":{"type":"policy","cause":{"Message":"","User":"Karan Khera \u003cksqwrd@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
